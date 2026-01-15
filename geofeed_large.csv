@@ -11,9 +11,6 @@
 2001:678:1184:1700::/56,CA,CA-BC,Vancouver,V6T
 2001:678:1184:8600::/56,CN,CN-SH,Yangpu,200433
 2001:678:1184:9700::/56,IL,IL-TA,Rosh HaAyin,4809139
-2001:678:1184:f000::/56,AQ,AQ,Zhongshan Station,
-2001:678:1184:f100::/56,AQ,AQ,Troll Station,
-2001:678:1184:f200::/56,AQ,AQ,McMurdo Station,
 
 2a0f:1cc5:1285::/48,CN,CN-HK,Chek Lap Kok,
 2a0f:1cc5:1287::/48,CN,CN-MO,Taipa,
@@ -27,9 +24,6 @@
 2a0f:1cc5:1217::/48,CA,CA-BC,Vancouver,V6T
 2a0f:1cc5:1286::/48,CN,CN-SH,Yangpu,200433
 2a0f:1cc5:1297::/48,IL,IL-TA,Rosh HaAyin,4809139
-2a0f:1cc5:f000::/48,AQ,AQ,Zhongshan Station,
-2a0f:1cc5:f100::/48,AQ,AQ,Troll Station,
-2a0f:1cc5:f200::/48,AQ,AQ,McMurdo Station,
 
 2a14:67c3:770:8500::/56,CN,CN-HK,Chek Lap Kok,
 2a14:67c3:770:8700::/56,CN,CN-MO,Taipa,
@@ -43,6 +37,3 @@
 2a14:67c3:770:1700::/56,CA,CA-BC,Vancouver,V6T
 2a14:67c3:770:8600::/56,CN,CN-SH,Yangpu,200433
 2a14:67c3:770:9700::/56,IL,IL-TA,Rosh HaAyin,4809139
-2a14:67c3:770:f000::/56,AQ,AQ,Zhongshan Station,
-2a14:67c3:770:f100::/56,AQ,AQ,Troll Station,
-2a14:67c3:770:f200::/56,AQ,AQ,McMurdo Station,
