@@ -25,13 +25,13 @@
 2a0f:1cc5:1214::/48,CA,CA-QC,Brossard,J4Y
 2a0f:1cc5:1215::/48,CA,CA-QC,Westmont,H3Z
 2a0f:1cc5:1213::/48,US,US-NY,Manhattan,10280
-2a0f:1cc5:1219::/56,US,US-NY,Brooklyn,11213
-2a0f:1cc5:121a::/56,US,US-NY,Crown Heights,11213
-2a0f:1cc5:121b::/56,US,US-NY,Crown Heights (Brooklyn),11213
-2a0f:1cc5:121c::/56,US,US-NY,Battery Park City,10280
-2a0f:1cc5:121d::/56,US,US-NY,Battery Park City (Manhattan),10280
-2a0f:1cc5:121e::/56,US,US-NY,Financial District,10005
-2a0f:1cc5:121f::/56,US,US-NY,Financial District (Manhattan),10005
+2a0f:1cc5:1219::/48,US,US-NY,Brooklyn,11213
+2a0f:1cc5:121a::/48,US,US-NY,Crown Heights,11213
+2a0f:1cc5:121b::/48,US,US-NY,Crown Heights (Brooklyn),11213
+2a0f:1cc5:121c::/48,US,US-NY,Battery Park City,10280
+2a0f:1cc5:121d::/48,US,US-NY,Battery Park City (Manhattan),10280
+2a0f:1cc5:121e::/48,US,US-NY,Financial District,10005
+2a0f:1cc5:121f::/48,US,US-NY,Financial District (Manhattan),10005
 2a0f:1cc5:1260::/48,SG,-,Changi,819642
 2a0f:1cc5:1217::/48,CA,CA-BC,Vancouver,V6T
 2a0f:1cc5:1286::/48,CN,CN-SH,Yangpu,200433
