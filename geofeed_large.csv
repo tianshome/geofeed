@@ -1,5 +1,5 @@
 # Routed subnets
-2001:678:1184:8500::/56,CN,CN-HK,Chek Lap Kok,
+2001:678:1184:8500::/56,CN,CN-HK,Hong Kong (Chek Lap Kok),
 2001:678:1184:8700::/56,CN,CN-MO,Taipa,
 2001:678:1184:4400::/56,GB,GB-ENG,London,E14 9SZ
 2001:678:1184:4500::/56,DE,DE-HE,Frankfurt,D-60314
@@ -18,7 +18,7 @@
 2001:678:1184:8600::/56,CN,CN-SH,Yangpu,200433
 2001:678:1184:9700::/56,IL,IL-TA,Rosh HaAyin,4809139
 
-2a0f:1cc5:1285::/48,CN,CN-HK,Chek Lap Kok,
+2a0f:1cc5:1285::/48,CN,CN-HK,Hong Kong (Chek Lap Kok),
 2a0f:1cc5:1287::/48,CN,CN-MO,Taipa,
 2a0f:1cc5:1244::/48,GB,GB-ENG,London,E14 9SZ
 2a0f:1cc5:1245::/48,DE,DE-HE,Frankfurt,D-60314
@@ -37,7 +37,7 @@
 2a0f:1cc5:1286::/48,CN,CN-SH,Yangpu,200433
 2a0f:1cc5:1297::/48,IL,IL-TA,Rosh HaAyin,4809139
 
-2a14:67c3:770:8500::/56,CN,CN-HK,Chek Lap Kok,
+2a14:67c3:770:8500::/56,CN,CN-HK,Hong Kong (Chek Lap Kok),
 2a14:67c3:770:8700::/56,CN,CN-MO,Taipa,
 2a14:67c3:770:4400::/56,GB,GB-ENG,London,E14 9SZ
 2a14:67c3:770:4500::/56,DE,DE-HE,Frankfurt,D-60314
@@ -54,3 +54,21 @@
 2a14:67c3:770:1700::/56,CA,CA-BC,Vancouver,V6T
 2a14:67c3:770:8600::/56,CN,CN-SH,Yangpu,200433
 2a14:67c3:770:9700::/56,IL,IL-TA,Rosh HaAyin,4809139
+
+2602:f92a:a448:5000::/52,CN,CN-HK,Hong Kong (Chek Lap Kok),
+2602:f92a:a448:7000::/52,CN,CN-MO,Taipa,
+2602:f92a:a444:4000::/52,GB,GB-ENG,London,E14 9SZ
+2602:f92a:a444:5000::/52,DE,DE-HE,Frankfurt,D-60314
+2602:f92a:a441:4000::/52,CA,CA-QC,Brossard,J4Y
+2602:f92a:a441:5000::/52,CA,CA-QC,Westmont,H3Z
+2602:f92a:a441:3000::/52,US,US-NY,Manhattan,10280
+2602:f92a:a441:a000::/52,US,US-NY,Crown Heights,11213
+2602:f92a:a441:b000::/52,US,US-NY,Crown Heights (Brooklyn),11213
+2602:f92a:a441:c000::/52,US,US-NY,Battery Park City,10280
+2602:f92a:a441:d000::/52,US,US-NY,Battery Park City (Manhattan),10280
+2602:f92a:a441:e000::/52,US,US-NY,Financial District,10005
+2602:f92a:a441:f000::/52,US,US-NY,Financial District (Manhattan),10005
+2602:f92a:a446::/52,SG,-,Changi,819642
+2602:f92a:a441:7000::/52,CA,CA-BC,Vancouver,V6T
+2602:f92a:a448:6000::/52,CN,CN-SH,Yangpu,200433
+2602:f92a:a449:7000::/52,IL,IL-TA,Rosh HaAyin,4809139
