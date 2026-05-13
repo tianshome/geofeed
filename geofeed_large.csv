@@ -1,5 +1,5 @@
-2001:678:1184:8500::/56,CN,CN-HK,Hong Kong (Chek Lap Kok),
-2001:678:1184:8700::/56,CN,CN-MO,Macau (Taipa),
+2001:678:1184:8500::/56,HK,-,Hong Kong (Chek Lap Kok),
+2001:678:1184:8700::/56,MO,-,Macau (Taipa),
 2001:678:1184:4400::/56,GB,GB-ENG,London,E14 9SZ
 2001:678:1184:4500::/56,DE,DE-HE,Frankfurt,D-60314
 2001:678:1184:1400::/56,CA,CA-QC,Brossard,J4Y
@@ -20,8 +20,8 @@
 2001:678:1184:9700::/56,IL,IL-TA,Rosh HaAyin,4809139
 2001:678:1184:f000::/56,AQ,AQ,Zhongshan Station,
 
-2a0f:1cc5:1285::/48,CN,CN-HK,Hong Kong (Chek Lap Kok),
-2a0f:1cc5:1287::/48,CN,CN-MO,Macau (Taipa),
+2a0f:1cc5:1285::/48,HK,-,Hong Kong (Chek Lap Kok),
+2a0f:1cc5:1287::/48,MO,-,Macau (Taipa),
 2a0f:1cc5:1244::/48,GB,GB-ENG,London,E14 9SZ
 2a0f:1cc5:1245::/48,DE,DE-HE,Frankfurt,D-60314
 2a0f:1cc5:1214::/48,CA,CA-QC,Brossard,J4Y
@@ -42,8 +42,8 @@
 2a0f:1cc5:1297::/48,IL,IL-TA,Rosh HaAyin,4809139
 2a0f:1cc5:12f0::/48,AQ,AQ,Zhongshan Station,
 
-2a14:67c3:770:8500::/56,CN,CN-HK,Hong Kong (Chek Lap Kok),
-2a14:67c3:770:8700::/56,CN,CN-MO,Macau (Taipa),
+2a14:67c3:770:8500::/56,HK,-,Hong Kong (Chek Lap Kok),
+2a14:67c3:770:8700::/56,MO,-,Macau (Taipa),
 2a14:67c3:770:4400::/56,GB,GB-ENG,London,E14 9SZ
 2a14:67c3:770:4500::/56,DE,DE-HE,Frankfurt,D-60314
 2a14:67c3:770:1400::/56,CA,CA-QC,Brossard,J4Y
@@ -63,8 +63,8 @@
 2a14:67c3:770:9700::/56,IL,IL-TA,Rosh HaAyin,4809139
 2a14:67c3:770:f000::/56,AQ,AQ,Zhongshan Station,
 
-2602:f92a:a448:5000::/52,CN,CN-HK,Hong Kong (Chek Lap Kok),
-2602:f92a:a448:7000::/52,CN,CN-MO,Macau (Taipa),
+2602:f92a:a448:5000::/52,HK,-,Hong Kong (Chek Lap Kok),
+2602:f92a:a448:7000::/52,MO,-,Macau (Taipa),
 2602:f92a:a444:4000::/52,GB,GB-ENG,London,E14 9SZ
 2602:f92a:a444:5000::/52,DE,DE-HE,Frankfurt,D-60314
 2602:f92a:a441:4000::/52,CA,CA-QC,Brossard,J4Y
@@ -83,3 +83,28 @@
 2602:f92a:a448:8000::/52,TW,TW-TAO,Taoyuan,321000
 2602:f92a:a449:7000::/52,IL,IL-TA,Rosh HaAyin,4809139
 2602:f92a:a44f::/52,AQ,AQ,Zhongshan Station,
+
+23.158.20.128/30,CA,CA-QC,Brossard,J4Y
+23.158.20.132/30,CA,CA-QC,Westmont,H3Z
+23.158.20.136/30,HK,-,Hong Kong (Chek Lap Kok),
+23.158.20.140/30,MO,-,Macau (Taipa)
+23.158.20.144/30,GB,GB-ENG,London,E14 9SZ
+23.158.20.148/30,DE,DE-HE,Frankfurt,D-60314
+23.158.20.152/30,US,US-NY,Battery Park City (Manhattan),10280
+23.158.20.156/30,US,US-NY,Financial District (Manhattan),10005
+23.158.20.160/30,US,US-NY,Crown Heights (Brooklyn),11213
+23.158.20.164/30,US,US-CA,Mountain View,94043
+23.158.20.168/30,US,US-WA,Seattle,98125
+23.158.20.172/30,US,US-DC,Washington,20002
+23.158.20.176/30,US,US-MA,Cambridge,02139
+23.158.20.180/30,US,US-GA,Georgia,30332
+23.158.20.184/30,SG,-,Changi,819642
+23.158.20.188/30,CA,CA-BC,Vancouver,V6T
+23.158.20.192/30,JP,JP-13,Ota City,144-0041
+23.158.20.196/30,TW,TW-TAO,Taoyuan,321000
+23.158.20.200/30,CN,CN-SH,Yangpu,200433
+23.158.20.208/30,IL,IL-TA,Rosh HaAyin,4809139
+23.158.20.212/30,AQ,AQ,Zhongshan Station,
+23.158.20.216/30,NZ,NZ-AUK,Auckland,1050
+23.158.20.220/30,AU,AU-NSW,Melbourne,3004
+23.158.20.224/30,AU,AU-NSW,Melbourne,3004
