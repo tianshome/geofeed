@@ -1,5 +1,5 @@
-2001:678:1184:8500::/56,HK,,Hong Kong (Chek Lap Kok), 
-2001:678:1184:8700::/56,MO,,Macau (Taipa), 
+2001:678:1184:8500::/56,HK,,Hong Kong (Chek Lap Kok),
+2001:678:1184:8700::/56,MO,,Macau (Taipa),
 2001:678:1184:4400::/56,GB,GB-ENG,London,E14 9SZ
 2001:678:1184:4500::/56,DE,DE-HE,Frankfurt,D-60314
 2001:678:1184:1400::/56,CA,CA-QC,Brossard,J4Y
@@ -18,10 +18,10 @@
 2001:678:1184:8800::/56,TW,TW-TAO,Taoyuan,321000
 2001:678:1184:8600::/56,CN,CN-SH,Yangpu,200433
 2001:678:1184:9700::/56,IL,IL-TA,Rosh HaAyin,4809139
-2001:678:1184:f000::/56,AQ,AQ,Zhongshan Station, 
+2001:678:1184:f000::/56,AQ,AQ,Zhongshan Station,
 
-2a0f:1cc5:1285::/48,HK,,Hong Kong (Chek Lap Kok), 
-2a0f:1cc5:1287::/48,MO,,Macau (Taipa), 
+2a0f:1cc5:1285::/48,HK,,Hong Kong (Chek Lap Kok),
+2a0f:1cc5:1287::/48,MO,,Macau (Taipa),
 2a0f:1cc5:1244::/48,GB,GB-ENG,London,E14 9SZ
 2a0f:1cc5:1245::/48,DE,DE-HE,Frankfurt,D-60314
 2a0f:1cc5:1214::/48,CA,CA-QC,Brossard,J4Y
@@ -40,10 +40,10 @@
 2a0f:1cc5:1286::/48,CN,CN-SH,Yangpu,200433
 2a0f:1cc5:1288::/48,TW,TW-TAO,Taoyuan,321000
 2a0f:1cc5:1297::/48,IL,IL-TA,Rosh HaAyin,4809139
-2a0f:1cc5:12f0::/48,AQ,AQ,Zhongshan Station, 
+2a0f:1cc5:12f0::/48,AQ,AQ,Zhongshan Station,
 
-2a14:67c3:770:8500::/56,HK,,Hong Kong (Chek Lap Kok), 
-2a14:67c3:770:8700::/56,MO,,Macau (Taipa), 
+2a14:67c3:770:8500::/56,HK,,Hong Kong (Chek Lap Kok),
+2a14:67c3:770:8700::/56,MO,,Macau (Taipa),
 2a14:67c3:770:4400::/56,GB,GB-ENG,London,E14 9SZ
 2a14:67c3:770:4500::/56,DE,DE-HE,Frankfurt,D-60314
 2a14:67c3:770:1400::/56,CA,CA-QC,Brossard,J4Y
@@ -61,10 +61,10 @@
 2a14:67c3:770:8600::/56,CN,CN-SH,Yangpu,200433
 2a14:67c3:770:8800::/56,TW,TW-TAO,Taoyuan,321000
 2a14:67c3:770:9700::/56,IL,IL-TA,Rosh HaAyin,4809139
-2a14:67c3:770:f000::/56,AQ,AQ,Zhongshan Station, 
+2a14:67c3:770:f000::/56,AQ,AQ,Zhongshan Station,
 
-2602:f92a:a448:5000::/52,HK,,Hong Kong (Chek Lap Kok), 
-2602:f92a:a448:7000::/52,MO,,Macau (Taipa), 
+2602:f92a:a448:5000::/52,HK,,Hong Kong (Chek Lap Kok),
+2602:f92a:a448:7000::/52,MO,,Macau (Taipa),
 2602:f92a:a444:4000::/52,GB,GB-ENG,London,E14 9SZ
 2602:f92a:a444:5000::/52,DE,DE-HE,Frankfurt,D-60314
 2602:f92a:a441:4000::/52,CA,CA-QC,Brossard,J4Y
@@ -82,12 +82,12 @@
 2602:f92a:a448:6000::/52,CN,CN-SH,Yangpu,200433
 2602:f92a:a448:8000::/52,TW,TW-TAO,Taoyuan,321000
 2602:f92a:a449:7000::/52,IL,IL-TA,Rosh HaAyin,4809139
-2602:f92a:a44f::/52,AQ,AQ,Zhongshan Station, 
- 
+2602:f92a:a44f::/52,AQ,AQ,Zhongshan Station,
+
 23.158.20.128/30,CA,CA-QC,Brossard,J4Y
 23.158.20.132/30,CA,CA-QC,Westmont,H3Z
-23.158.20.136/30,HK,,Hong Kong (Chek Lap Kok), 
-23.158.20.140/30,MO,,Macau (Taipa)
+23.158.20.136/30,HK,,Hong Kong (Chek Lap Kok),
+23.158.20.140/30,MO,,Macau (Taipa),
 23.158.20.144/30,GB,GB-ENG,London,E14 9SZ
 23.158.20.148/30,DE,DE-HE,Frankfurt,D-60314
 23.158.20.152/30,US,US-NY,Battery Park City (Manhattan),10280
@@ -105,7 +105,7 @@
 23.158.20.200/30,CN,CN-SH,Yangpu,200433
 23.158.20.208/30,TW,TW-TAO,Taoyuan,321000
 23.158.20.212/30,IL,IL-TA,Rosh HaAyin,4809139
-23.158.20.216/30,AQ,AQ,Zhongshan Station, 
+23.158.20.216/30,AQ,AQ,Zhongshan Station,
 23.158.20.220/30,NZ,NZ-AUK,Auckland,1050
 23.158.20.224/30,AU,AU-NSW,Melbourne,3004
 23.158.20.228/30,AU,AU-NSW,Melbourne,3004
